@@ -1,0 +1,36 @@
+[
+    {
+      "name": "update",
+      "list": [
+        {
+          "name": "pg",
+          "url": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250222-1326.zip",
+          "icon": "",
+          "version": "20250222-1326"
+        },
+        {
+          "name": "ZX",
+          "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/ZX/main/真心20250212.zip",
+          "icon": "",
+          "version": "20250212"
+        },
+        {
+          "name": "pgmin",
+          "url": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250222-1326.zip",
+          "icon": "",
+          "version": "20250222-1326"
+        }
+      ]
+    },
+    {
+      "name": "当前版本",
+      "list": [
+        {
+          "name": "pg",
+          "url": "",
+          "icon": "http://127.0.0.1:9978/file/TV/pg/pgversion.png",
+          "version": ""
+        }
+      ]
+    }
+  ]
