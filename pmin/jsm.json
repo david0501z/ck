@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202502221038",
+            "name": "202502221326",
             "type": 3,
             "jar": "https://market.dav0501.us.kg/jar/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250222-1038.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250222-1326.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://up.dav0501.us.kg"
