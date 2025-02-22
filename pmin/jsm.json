@@ -15,13 +15,13 @@
             "key": "PG",
             "name": "202502222138",
             "type": 3,
-            "jar": "https://market.dav0501.us.kg/jar/update.jar",
+            "jar": "http://d.david525.cloudns.ch/CatVodSpider/jar/update.jar",
             "api": "csp_Market",
             "searchable": 0,
             "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250222-2138.zip",
             "changeable": 0,
             "indexs": 0,
-            "ext": "http://up.dav0501.us.kg"
+            "ext": "http://up.david525.cloudns.ch"
         },
         {
             "key": "TGDouban",
