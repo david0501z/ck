@@ -1,0 +1,15 @@
+{
+    "spider": "https://p.dav0501.ip-ddns.com/a/update.jar",
+    "sites": [
+        {
+            "key": "版本信息",
+            "name": "版本｜信息",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "https://p.dav0501.ip-ddns.com?filter=min"
+        }
+    ]
+}
