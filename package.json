@@ -1,0 +1,9 @@
+{
+  "name": "my-static-website",
+  "version": "1.0.0",
+  "description": "一个纯静态网站示例",
+  "scripts": {},
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT"
+}
