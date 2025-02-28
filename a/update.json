@@ -1,5 +1,5 @@
 {
-    "spider": "http://p.david525.cloudns.ch/a/update.jar",
+    "spider": "http://d.david525.cloudns.ch/CatVodSpider/jar/update.jar",
     "sites": [
         {
             "key": "版本信息",
