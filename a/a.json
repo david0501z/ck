@@ -5,7 +5,7 @@
       "name": "OK"
     },
     {
-      "url": "http://p.david525.cloudns.ch/a/update.json",
+      "url": "https://p.dav0501.ip-ddns.com/a/update.json",
       "name": "本地更新地址[pgzx]"
     },
     {
@@ -17,11 +17,11 @@
       "name": "pgfish"
     },
     {
-      "url": "http://p.david525.cloudns.ch/p/jsm.json",
+      "url": "https://p.dav0501.ip-ddns.com/p/jsm.json",
       "name": "pg在线"
     },
     {
-      "url": "http://p.david525.cloudns.ch/pmin/jsm.json",
+      "url": "https://p.dav0501.ip-ddns.com/pmin/jsm.json",
       "name": "pgmin在线"
     },
     {
