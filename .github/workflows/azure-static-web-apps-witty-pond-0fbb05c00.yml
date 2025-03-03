@@ -22,6 +22,7 @@ jobs:
         with:
           submodules: true
           lfs: false
+          fetch-depth: 1  # 1最新，0完整
       - name: Replace URLs in JSON file
         run: |
           find p pmin -type f -name "jsm.json" -exec sed -i 's|http://d.david525.cloudns.ch/CatVodSpider/jar|http://p.dav0501.ip-ddns.com/a|g' {} +
