@@ -10,6 +10,10 @@
     },
     {
       "url": "https://p.dav0501.ip-ddns.com/pmin/jsm.json",
+      "name": "pgmin在线az"
+    },
+    {
+      "url": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/jsm.json",
       "name": "pgmin在线"
     },
     {
@@ -37,10 +41,6 @@
       "name": "王二小"
     },
     {
-      "url": "http://我不是.摸鱼儿.com",
-      "name": "摸鱼儿"
-    },
-    {
       "url": "https://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=o",
       "name": "欧歌"
     },
@@ -51,10 +51,6 @@
     {
       "url": "http://rihou.cc:55/天天开心",
       "name": "天天开心"
-    },
-    {
-      "url": "file://TVBoxOSC/tvbox/api.json",
-      "name": "潇洒[本地]"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
@@ -73,7 +69,7 @@
       "name": "少儿频道"
     },
     {
-      "url": "https://p.dav0501.ip-ddns.com/a/updatemin.json",
+      "url": "http://d.david525.cloudns.ch/CatVodSpider/jar/updatemin.json",
       "name": "本地更新地址[pgmin,zx]"
     }
   ]
