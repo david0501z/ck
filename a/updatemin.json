@@ -1,5 +1,5 @@
 {
-    "spider": "http://d.david525.cloudns.ch/CatVodSpider/jar/update.jar",
+    "spider": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/a/update.jar",
     "sites": [
         {
             "key": "版本信息",
