@@ -1,7 +1,7 @@
 name = "ck"
 pages_build_output_dir = "./"
 
-[site]
+[pages]
 bucket = "./"
 entry-point = "./" 
 exclude = ["*.zip"]
