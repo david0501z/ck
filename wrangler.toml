@@ -1,6 +1,4 @@
 name = "ck"
 pages_build_output_dir = "./"
-
-[pages]
 exclude = ["*.zip"]
 
