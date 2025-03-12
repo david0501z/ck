@@ -72,12 +72,12 @@
         },
         {
             "key": "ZX",
-            "name": "20250311",
+            "name": "20250312",
             "type": 3,
             "jar": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/a/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20250311.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20250312.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://up.david525.cloudns.ch"
