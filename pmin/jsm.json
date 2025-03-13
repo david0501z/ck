@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202503131353",
+            "name": "202503131454",
             "type": 3,
             "jar": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/a/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250313-1353.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250313-1454.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://up.david525.cloudns.ch?filter=min"
@@ -386,7 +386,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://tv.91muou.icu/$$$proxy$$$1$$$./lib/wogg.json$$$MOGG"
+            "ext": "./lib/tokenm.json$$$http://tv.91muou.icu/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
         },
         {
             "key": "Xiaomi",
