@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202503131454",
+            "name": "202503132029",
             "type": 3,
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/a/update.jar",
+            "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250313-1454.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250313-2029.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://up.david525.cloudns.ch?filter=min"
