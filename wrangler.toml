@@ -1,9 +1,0 @@
-
-name = "ck"
-
-#bucket = "./"
-#entry-point = "./" 
-[pages]
-pages_build_output_dir = "./"
-exclude = ["*.zip"]
-
