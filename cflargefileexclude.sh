@@ -16,4 +16,4 @@ for file in $(find $TARGET_DIR -type f); do
 done
 
 # 这里可以添加其他部署步骤，例如打包、上传等
-echo "Deployment process continues..."
+echo "Deployment process continues....."
