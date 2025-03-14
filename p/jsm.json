@@ -375,7 +375,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
+            "ext": "./lib/tokenm.json$$$http://labi.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
         },
         {
             "key": "Mogg",
