@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202503132029",
+            "name": "202503150709",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250313-2029.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250315-0709.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://up.david525.cloudns.ch?filter=min"
@@ -386,7 +386,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://mogg.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
+            "ext": "./lib/tokenm.json$$$https://mogg.banye.tech:7086$$$proxy$$$1$$$./lib/wogg.json$$$MOGG"
         },
         {
             "key": "Xiaomi",
@@ -397,7 +397,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.mucpan.cc/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+            "ext": "./lib/tokenm.json$$$https://xiaomi.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
         },
         {
             "key": "至臻|网盘",
