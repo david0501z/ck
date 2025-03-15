@@ -26,6 +26,7 @@ jobs:
           find a  -type f -name "*.json" -exec sed -i 's|https://d.david525.cloudns.ch/ck/|http://p.dav0501.ip-ddns.com/|g' {} +
           find p pmin -type f -name "jsm.json" -exec sed -i 's|http://d.david525.cloudns.ch/CatVodSpider/jar|http://p.dav0501.ip-ddns.com/a|g' {} +
           find p pmin -type f -name "jsm.json" -exec sed -i 's|"http://up.david525.cloudns.ch"|"http://p.dav0501.ip-ddns.com/a/up.json"|g' {} +
+          find p pmin -type f -name "jsm.json" -exec sed -i 's|"http://r.david525.cloudns.ch"|"http://p.dav0501.ip-ddns.com"|g' {} +
           find p pmin -type f -name "jsm.json" -exec sed -i 's|"http://up.david525.cloudns.ch?filter=min"|"http://p.dav0501.ip-ddns.com/a/upmin.json"|g' {} +
           #find p pmin -type f -name "*.zip" -exec rm {} +
           #find p -type d -exec zip -r p.zip {} +
