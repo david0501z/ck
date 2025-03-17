@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202503161831",
+            "name": "202503170816",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250316-1831.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250317-0816.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://up.david525.cloudns.ch"
@@ -375,7 +375,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://labi.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
+            "ext": "./lib/tokenm.json$$$https://www.goimg.asia/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
         },
         {
             "key": "Mogg",
@@ -409,6 +409,21 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
+        },
+        {
+            "key": "Leijing",
+            "name": "雷鲸|网盘",
+            "type": 3,
+            "api": "csp_Panta",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://leijing.xyz/$$$noproxy$$$1$$$LEIJING",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
         },
         {
             "key": "Guazi",
@@ -556,6 +571,17 @@
             "quickSearch": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://www.xlys01.com/$$$noproxy$$$1"
+        },
+        {
+            "key": "TianYiSou",
+            "name": "天逸搜|网盘搜索",
+            "type": 3,
+            "api": "csp_TianYiSou",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$null$$$proxy"
         },
         {
             "key": "YunPan",
