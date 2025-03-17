@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202503170816",
+            "name": "202503171632",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250317-0816.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250317-1632.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://up.david525.cloudns.ch"
@@ -548,7 +548,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 120,
-            "ext": "./lib/tokenm.json$$$http://hdhive.online$$$noproxy$$$1$$$./lib/hdhive.txt"
+            "ext": "./lib/tokenm.json$$$https://hdhive.online$$$noproxy$$$1$$$./lib/hdhive.txt"
         },
         {
             "key": "Huban",
