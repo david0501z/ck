@@ -13,15 +13,15 @@
         },
         {
             "key": "PG",
-            "name": "202503171632",
+            "name": "202503171951",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250317-1632.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250317-1951.zip",
             "changeable": 0,
             "indexs": 0,
-            "ext": "http://up.david525.cloudns.ch"
+            "ext": "http://u.david525.cloudns.ch"
         },
         {
             "key": "TGDouban",
