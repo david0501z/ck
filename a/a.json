@@ -37,10 +37,6 @@
       "name": "饭太硬"
     },
     {
-      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
-      "name": "饭太硬（备用）"
-    },
-    {
       "url": "https://mpanso.me/DEMO.json",
       "name": "小米"
     },
@@ -61,6 +57,10 @@
       "name": "天天开心"
     },
     {
+      "url": "http://david525.eastasia.cloudapp.azure.com:5757/config/1?sub=green&pwd=david",
+      "name": "道长"
+    },
+    {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
       "name": "南风"
     },
@@ -77,20 +77,16 @@
       "name": "少儿频道"
     },
     {
+      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
+      "name": "饭太硬（备用）"
+    },
+    {
       "url": "https://9877.kstore.space/AnotherD/api.json",
       "name": "潇洒"
     },
     {
       "url": "https://欧歌.v.nxog.top/m/",
       "name": "欧歌"
-    },
-    {
-      "url": "http://www.饭太硬.net/tv",
-      "name": "饭太硬（备用①）"
-    },
-    {
-      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
-      "name": "饭太硬（备用②）"
     }
   ]
 }
