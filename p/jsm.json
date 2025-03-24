@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202503241541",
+            "name": "202503242035",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250324-1541.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250324-2035.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
