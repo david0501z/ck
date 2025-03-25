@@ -45,8 +45,12 @@
       "name": "天天开心"
     },
     {
-      "url": "http://david525.eastasia.cloudapp.azure.com:5757/config/1?sub=green&pwd=david",
+      "url": "http://david525.eastasia.cloudapp.azure.com:5757/config/1?sub=tv&pwd=david",
       "name": "道长"
+    },
+    {
+      "url": "http://david525.eastasia.cloudapp.azure.com:5757/config/1?sub=pan&pwd=david",
+      "name": "道长仅网盘"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
