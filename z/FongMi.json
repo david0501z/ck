@@ -72,12 +72,12 @@
         },
         {
             "key": "ZX",
-            "name": "20250319",
+            "name": "20250325",
             "type": 3,
             "jar": "http://d.david525.cloudns.ch/ck/a/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20250319.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20250325.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -94,6 +94,15 @@
                 "commonConfig": "./json/peizhi.json",
                 "share": "./json/网盘集合.json"
             }
+        },
+        {
+            "key": "游戏 | 直播",
+            "name": "游戏 | 直播",
+            "type": 3,
+            "api": "csp_Living",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9966/api/proxy/https://lemonlive.pages.dev"
         },
         {
             "key": "玩偶 | 闪电uc",
@@ -408,7 +417,7 @@
             "key": "非凡",
             "name": "非凡",
             "type": 1,
-            "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "changeable": 1,
             "categories": [
