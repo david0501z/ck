@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202503271035",
+            "name": "202503272122",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250327-1035.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250327-2122.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -168,16 +168,48 @@
             }
         },
         {
-            "key": "115Share",
-            "name": "115云盘分享",
+            "key": "123Share",
+            "name": "123云盘分享",
             "type": 3,
-            "api": "csp_P115Share",
+            "api": "csp_P123Share",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 0,
             "timeout": 120,
-            "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
+            "ext": "./lib/tokenm.json$$$./lib/123share.txt$$$db$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "189Share",
+            "name": "189云盘分享",
+            "type": 3,
+            "api": "csp_P189Share",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 120,
+            "ext": "./lib/tokenm.json$$$./lib/189share.txt$$$db$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "ThunderShare",
+            "name": "迅雷云盘分享",
+            "type": 3,
+            "api": "csp_ThunderShare",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/thundershare.txt",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -200,16 +232,16 @@
             }
         },
         {
-            "key": "ThunderShare",
-            "name": "迅雷云盘分享",
+            "key": "115Share",
+            "name": "115云盘分享",
             "type": 3,
-            "api": "csp_ThunderShare",
+            "api": "csp_P115Share",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "changeable": 0,
             "filterable": 0,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/thundershare.txt",
+            "timeout": 120,
+            "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
