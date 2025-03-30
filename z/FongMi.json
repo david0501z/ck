@@ -72,12 +72,12 @@
         },
         {
             "key": "ZX",
-            "name": "20250325",
+            "name": "20250330",
             "type": 3,
             "jar": "http://d.david525.cloudns.ch/ck/a/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20250325.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20250330.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -451,6 +451,15 @@
                 "港台动漫",
                 "海外动漫"
             ]
+        },
+        {
+            "key": "豆瓣采集资源",
+            "name": "豆瓣 | 采集",
+            "type": 1,
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "量子",
