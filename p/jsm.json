@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202504011301",
+            "name": "202504031819",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250401-1301.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250403-1819.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -86,6 +86,16 @@
             "name": "本地",
             "type": 3,
             "api": "csp_Local"
+        },
+        {
+            "key": "AList",
+            "name": "网盘|Alist[jar]",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/alistjar.json"
         },
         {
             "key": "PushShare",
@@ -1055,16 +1065,6 @@
             "api": "csp_SeedHub",
             "changeable": 1,
             "timeout": 60
-        },
-        {
-            "key": "AList",
-            "name": "网盘|Alist[jar]",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/alistjar.json"
         },
         {
             "key": "快看",

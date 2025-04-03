@@ -17,6 +17,10 @@
       "name": "pgmin在线az"
     },
     {
+      "url": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/jsm.json",
+      "name": "pgmin在线"
+    },
+    {
       "url": "file://TVBox/ZX/fongmi.json",
       "name": "真心[本地]"
     },
