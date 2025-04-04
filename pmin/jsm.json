@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202504041514",
+            "name": "202504041649",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250404-1514.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250404-1649.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -450,7 +450,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://149.88.87.18:6688$$$noproxy$$$1$$$./lib/wogg.json$$$DAWO"
+            "ext": "./lib/tokenm.json$$$http://149.88.87.18:6688/$$$noproxy$$$1$$$./lib/wogg.json$$$DAWO"
         },
         {
             "key": "BAIJIA",
@@ -461,7 +461,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://cj.jiexi.news$$$noproxy$$$1$$$./lib/wogg.json$$$BAIJIA"
+            "ext": "./lib/tokenm.json$$$http://cj.jiexi.news/$$$noproxy$$$1$$$./lib/wogg.json$$$BAIJIA"
         },
         {
             "key": "Xiaomi",
