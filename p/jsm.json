@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202504090838",
+            "name": "202504090954",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250409-0838.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250409-0954.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -420,6 +420,17 @@
             "ext": "./lib/tokenm.json$$$https://www.goimg.asia/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
         },
         {
+            "key": "Mogg",
+            "name": "木偶哥哥|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$http://123.666291.xyz/$$$proxy$$$1$$$./lib/wogg.json$$$MOGG"
+        },
+        {
             "key": "DAWO",
             "name": "大玩偶|网盘",
             "type": 3,
@@ -451,6 +462,17 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://revohd.com/$$$noproxy$$$1$$$./lib/wogg.json$$$QINGYING"
+        },
+        {
+            "key": "Xiaomi",
+            "name": "小米|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://xiaomi.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
         },
         {
             "key": "至臻|网盘",
@@ -514,6 +536,17 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"
+        },
+        {
+            "key": "Ppxzy",
+            "name": "皮皮虾|网盘",
+            "type": 3,
+            "api": "csp_Ppxzy",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
         },
         {
             "key": "ddys",
