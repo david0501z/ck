@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202504201809",
+            "name": "202504201904",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250420-1809.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250420-1904.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -1103,14 +1103,6 @@
             "type": 0,
             "url": "./lib/biptv.txt",
             "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "ITV.BETA",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/noproxy/https://itv-list.myukj.cn/list/itv_beta.m3u",
-            "ua": "2724c07262457522",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
