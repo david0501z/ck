@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202505071504",
+            "name": "202505071522",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250507-1504.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250507-1522.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -494,7 +494,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.haimianxz.com/$$$proxy$$$1$$$./lib/hmxz.txt$$$HMXZ",
+            "ext": "./lib/tokenm.json$$$https://haimian.eu.org/$$$noproxy$$$1$$$./lib/hmxz.txt$$$HMXZ",
             "style": {
                 "type": "list",
                 "ratio": 1.1
