@@ -13,12 +13,12 @@
         },
         {
             "key": "PG",
-            "name": "202505172302",
+            "name": "202505191941",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250517-2302.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250519-1941.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -88,6 +88,18 @@
             "api": "csp_Local"
         },
         {
+            "key": "WebDAV",
+            "name": "WebDAV[jar]",
+            "type": 3,
+            "api": "csp_WebDAV",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "playerType": 2,
+            "ext": "./lib/webdav.json"
+        },
+        {
             "key": "AList",
             "name": "网盘|Alist[jar]",
             "type": 3,
@@ -97,7 +109,7 @@
             "changeable": 1,
             "timeout": 60,
             "playerType": 2,
-            "ext": "./js/alistjar.json"
+            "ext": "./lib/alistjar.json"
         },
         {
             "key": "PushShare",
