@@ -12,7 +12,7 @@
             "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
         {
-            "key": "PG",
+            "key": "PGdpdns",
             "name": "202505290750-dpdns",
             "type": 3,
             "jar": "http://r.d51.dpdns.org/update.jar",
