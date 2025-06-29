@@ -14,7 +14,7 @@
 
 近期更新
 1.优化网盘文件排序
-2.代理支持用户名密码（http://username:password@127.0.0.1:1072）
+2.tgsou-go代理支持用户名密码（http://username:password@127.0.0.1:1072）
 3.修改singbox端口以防止跟hiddify默认端口冲突 导致不能同时启动
 4.csp_TgYunPanLocal(tg本地) 支持加载海报 跟tg豆瓣一样控制（"tgPic": "true"） 需配置singbox
 5.tg豆瓣源 如果没有登录（tv文件夹没有.tgsou_api_session文件），默认启用tgsou-go 需配置singbox
