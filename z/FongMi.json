@@ -72,12 +72,12 @@
         },
         {
             "key": "ZX",
-            "name": "20250630-完整包",
+            "name": "20250711-增量包",
             "type": 3,
             "jar": "http://d.david525.cloudns.ch/ck/a/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20250630-完整包.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20250711-增量包.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -217,7 +217,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "./json/peizhi.json",
-                "siteUrl": "http://woggpan.xxooo.cf/",
+                "siteUrl": "http://woggpan.wogg.lol/",
                 "filter": "./json/wogg.json"
             }
         },
@@ -261,8 +261,17 @@
             "switchable": 0,
             "ext": {
                 "siteUrl": "https://www.tianyiso.com",
-                "commonConfig": "./peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
+        },
+        {
+            "key": "賤賤",
+            "name": "賤賤",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./json/jianpian.json"
         },
         {
             "key": "lf_live10_min",
