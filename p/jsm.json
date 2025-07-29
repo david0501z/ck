@@ -13,24 +13,24 @@
         },
         {
             "key": "PGdpdns",
-            "name": "202507282322-dpdns",
+            "name": "202507291058-dpdns",
             "type": 3,
             "jar": "http://r.d51.dpdns.org/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250728-2322.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250729-1058.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.d51.dpdns.org"
         },
         {
             "key": "PG",
-            "name": "202507282322-cloudns",
+            "name": "202507291058-cloudns",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250728-2322.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250729-1058.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
