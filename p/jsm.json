@@ -13,24 +13,24 @@
         },
         {
             "key": "PGdpdns",
-            "name": "202508111601-dpdns",
+            "name": "202508121626-dpdns",
             "type": 3,
             "jar": "http://r.d51.dpdns.org/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250811-1601.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250812-1626.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.d51.dpdns.org"
         },
         {
             "key": "PG",
-            "name": "202508111601-cloudns",
+            "name": "202508121626-cloudns",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250811-1601.zip",
+            "zip": "https://slink.ltd/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250812-1626.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -55,29 +55,6 @@
             "style": {
                 "type": "rect",
                 "ratio": 0.7
-            }
-        },
-        {
-            "key": "Youtube",
-            "name": "Youtube",
-            "type": 3,
-            "api": "csp_Youtube",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "timeout": 120,
-            "ext": {
-                "token": "./lib/tokenm.json",
-                "json": "./lib/youtube.json",
-                "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-                "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-                "codecs": "",
-                "proxy": "proxy",
-                "danmu": true
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
             }
         },
         {
@@ -459,17 +436,6 @@
             "ext": "./lib/tokenm.json$$$https://duoduo.banye.tech:7086$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"
         },
         {
-            "key": "蜡笔网盘",
-            "name": "蜡笔|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.goimg.asia/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
-        },
-        {
             "key": "Mogg",
             "name": "木偶哥哥|网盘",
             "type": 3,
@@ -479,50 +445,6 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$http://123.666291.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
-        },
-        {
-            "key": "DAWO",
-            "name": "大玩偶|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://149.88.87.18:6688/$$$noproxy$$$1$$$./lib/wogg.json$$$DAWO"
-        },
-        {
-            "key": "BAIJIA",
-            "name": "百家|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://cj.jiexi.news/$$$noproxy$$$1$$$./lib/wogg.json$$$BAIJIA"
-        },
-        {
-            "key": "QINGYING",
-            "name": "清影|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://revohd.com/$$$noproxy$$$1$$$./lib/wogg.json$$$QINGYING"
-        },
-        {
-            "key": "Xiaomi",
-            "name": "小米|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://xiaomi.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
         },
         {
             "key": "至臻|网盘",
@@ -566,6 +488,29 @@
             }
         },
         {
+            "key": "Youtube",
+            "name": "Youtube",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/youtube.json",
+                "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+                "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+                "codecs": "",
+                "proxy": "proxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
             "key": "Guazi",
             "name": "瓜子|App",
             "type": 3,
@@ -588,17 +533,6 @@
             "ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"
         },
         {
-            "key": "Ppxzy",
-            "name": "皮皮虾|网盘",
-            "type": 3,
-            "api": "csp_Ppxzy",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
-        },
-        {
             "key": "ddys",
             "name": "低端影视|网盘",
             "type": 3,
@@ -619,17 +553,6 @@
             "filterable": 1,
             "timeout": 120,
             "ext": "./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
-        },
-        {
-            "key": "Libvio",
-            "name": "LIBVIO|网盘",
-            "type": 3,
-            "api": "csp_Libvio",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.libvio.fun/$$$null"
         },
         {
             "key": "Hdhive",
@@ -855,14 +778,6 @@
             "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
         },
         {
-            "key": "黑木耳",
-            "name": "黑木耳",
-            "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "索尼资源",
             "name": "索尼┃资源",
             "type": 1,
@@ -932,16 +847,6 @@
             "api": "csp_SeedHub",
             "changeable": 1,
             "timeout": 60
-        },
-        {
-            "key": "快看",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1
         },
         {
             "key": "ikun",
@@ -1023,14 +928,6 @@
             ]
         },
         {
-            "key": "巴士",
-            "name": "巴士",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "異界",
             "name": "異界",
             "type": 3,
@@ -1049,32 +946,12 @@
             "ext": "./js/alist.json"
         },
         {
-            "key": "MV_vod",
-            "name": "电视┃MTV",
-            "type": 1,
-            "api": "https://mv.wogg.link/mv/vod",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "酷狗",
             "name": "酷狗",
             "type": 3,
             "api": "csp_Kugou",
             "searchable": 1,
             "changeable": 0
-        },
-        {
-            "key": "hipy_js_KTV歌厅[听]1",
-            "name": "🎤KTV歌厅在线",
-            "type": 3,
-            "api": "http://kxrj.site:55/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
         },
         {
             "key": "Yinyuetai",
