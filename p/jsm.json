@@ -13,24 +13,24 @@
         },
         {
             "key": "PGdpdns",
-            "name": "202508241205-dpdns",
+            "name": "202508291129-dpdns",
             "type": 3,
             "jar": "http://r.d51.dpdns.org/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250824-1205.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250829-1129.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.d51.dpdns.org"
         },
         {
             "key": "PG",
-            "name": "202508241205-cloudns",
+            "name": "202508291129-cloudns",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250824-1205.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250829-1129.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
