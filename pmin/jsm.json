@@ -13,24 +13,24 @@
         },
         {
             "key": "PGdpdns",
-            "name": "202508291606-dpdns",
+            "name": "202508301123-dpdns",
             "type": 3,
             "jar": "http://r.d51.dpdns.org/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250829-1606.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250830-1123.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.d51.dpdns.org?filter=min"
         },
         {
             "key": "PG",
-            "name": "202508291606-cloudns",
+            "name": "202508301123-cloudns",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250829-1606.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250830-1123.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch?filter=min"
@@ -1040,7 +1040,7 @@
             "name": "FeiYang牧场",
             "type": 0,
             "url": "http://sub.ottiptv.cc/iptv.m3u",
-            "ua": "okHttp/Mod-1.1.0",
+            "ua": "okHttp/Mod-1.2.0",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
             "catchup": {
