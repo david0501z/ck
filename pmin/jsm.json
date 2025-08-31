@@ -13,24 +13,24 @@
         },
         {
             "key": "PGdpdns",
-            "name": "202508301451-dpdns",
+            "name": "202508310849-dpdns",
             "type": 3,
             "jar": "http://r.d51.dpdns.org/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250830-1451.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250831-0849.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.d51.dpdns.org?filter=min"
         },
         {
             "key": "PG",
-            "name": "202508301451-cloudns",
+            "name": "202508310849-cloudns",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250830-1451.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20250831-0849.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch?filter=min"
@@ -574,7 +574,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 120,
-            "ext": "./lib/tokenm.json$$$https://hdhive.online$$$noproxy$$$1$$$./lib/hdhive.txt"
+            "ext": "./lib/tokenm.json$$$https://hdhive.com$$$noproxy$$$1$$$./lib/hdhive.txt"
         },
         {
             "key": "TianYiSou",
