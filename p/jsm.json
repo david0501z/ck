@@ -13,24 +13,24 @@
         },
         {
             "key": "PGdpdns",
-            "name": "202508310849-dpdns",
+            "name": "202508311355-dpdns",
             "type": 3,
             "jar": "http://r.d51.dpdns.org/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250831-0849.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250831-1355.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.d51.dpdns.org"
         },
         {
             "key": "PG",
-            "name": "202508310849-cloudns",
+            "name": "202508311355-cloudns",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250831-0849.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20250831-1355.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -48,7 +48,7 @@
                 "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
                 "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
                 "channellist": "tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
-                "proxy": "noproxy",
+                "proxy": "proxy",
                 "douban": "./lib/douban.json",
                 "danmu": true
             },
