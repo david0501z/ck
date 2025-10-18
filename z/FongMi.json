@@ -72,12 +72,12 @@
         },
         {
             "key": "ZX",
-            "name": "20251015-增量包",
+            "name": "20251018-增量包",
             "type": 3,
             "jar": "http://d.david525.cloudns.ch/ck/a/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20251015-增量包.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20251018-增量包.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -328,8 +328,7 @@
             },
             "ext": {
                 "commonConfig": "./json/peizhi.json",
-                "json": "./json/youtube.json",
-                "cookie": ""
+                "json": "./json/youtube.json"
             }
         },
         {
