@@ -72,12 +72,12 @@
         },
         {
             "key": "ZX",
-            "name": "20251116-增量包",
+            "name": "20251123-增量包",
             "type": 3,
             "jar": "http://d.david525.cloudns.ch/ck/a/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20251116-增量包.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20251123-增量包.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -130,7 +130,17 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "siteUrl": "https://pansou-latest-hv4k.onrender.com"
+                "siteUrl": "https://pansou-latest-hv4k.onrender.com",
+                "filter": {
+                    "include": [
+                        "HDR",
+                        "高码"
+                    ],
+                    "exclude": [
+                        "预告",
+                        "花絮"
+                    ]
+                }
             }
         },
         {
@@ -180,7 +190,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "siteUrl": "https://api.muxia.fun",
+                "siteUrl": "https://f1.qilin8.com/api",
                 "commonConfig": "./json/peizhi.json"
             }
         },
