@@ -72,12 +72,12 @@
         },
         {
             "key": "ZX",
-            "name": "20251219-1-增量包",
+            "name": "20260205-增量包",
             "type": 3,
             "jar": "http://d.david525.cloudns.ch/ck/a/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20251219-1-增量包.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20260205-增量包.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -93,6 +93,17 @@
             "changeable": 1,
             "ext": {
                 "site": "https://www.ksnnhbj.com",
+                "commonConfig": "./json/peizhi.json"
+            }
+        },
+        {
+            "key": "GuaZi",
+            "name": "瓜子影视",
+            "type": 3,
+            "api": "csp_GuaZi",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
                 "commonConfig": "./json/peizhi.json"
             }
         },
@@ -120,6 +131,28 @@
                     "碎片": "https://free-api.bighotwind.cc",
                     "碎片图片": "https://speed.hiknz.com"
                 },
+                "commonConfig": "./json/peizhi.json"
+            }
+        },
+        {
+            "key": "Ikanbot",
+            "name": "爱看机器人",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./json/peizhi.json"
+            }
+        },
+        {
+            "key": "FourKZN",
+            "name": "4k指南",
+            "type": 3,
+            "api": "csp_FourKZN",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
                 "commonConfig": "./json/peizhi.json"
             }
         },
@@ -223,15 +256,15 @@
             }
         },
         {
-            "key": "玩偶 | 大玩偶",
-            "name": "玩偶 | 大玩偶",
+            "key": "玩偶 | 木偶",
+            "name": "玩偶 | 木偶",
             "type": 3,
             "api": "csp_kongbai",
             "searchable": 1,
             "changeable": 0,
             "ext": {
                 "commonConfig": "./json/peizhi.json",
-                "siteUrl": "http://149.88.87.18:6688/",
+                "siteUrl": "https://www.muou.site/",
                 "filter": "./json/wogg.json"
             }
         },
