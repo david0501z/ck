@@ -72,12 +72,12 @@
         },
         {
             "key": "ZX",
-            "name": "20260205-增量包",
+            "name": "20260208-增量包",
             "type": 3,
             "jar": "http://d.david525.cloudns.ch/ck/a/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20260205-增量包.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/z/真心20260208-增量包.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -147,13 +147,27 @@
         },
         {
             "key": "FourKZN",
-            "name": "4k指南",
+            "name": "网盘 | 4k指南",
             "type": 3,
             "api": "csp_FourKZN",
             "searchable": 1,
             "changeable": 0,
             "ext": {
                 "commonConfig": "./json/peizhi.json"
+            }
+        },
+        {
+            "key": "观影",
+            "name": "网盘 | 观影",
+            "type": 3,
+            "api": "csp_GuanYing",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./json/peizhi.json",
+                "siteUrl": "https://www.gyg.la/",
+                "username": "",
+                "password": ""
             }
         },
         {
