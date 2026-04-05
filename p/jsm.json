@@ -13,24 +13,24 @@
         },
         {
             "key": "PGdpdns",
-            "name": "202604021551-dpdns",
+            "name": "202604032315-dpdns",
             "type": 3,
             "jar": "http://r.d51.dpdns.org/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20260402-1551.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20260403-2315.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.d51.dpdns.org"
         },
         {
             "key": "PG",
-            "name": "202604021551-cloudns",
+            "name": "202604032315-cloudns",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20260402-1551.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/p/pg.20260403-2315.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch"
@@ -166,7 +166,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://xuexizhinan.com/$$$noproxy$$$1$$$./lib/4kzn.txt$$$4KZN"
+            "ext": "./lib/tokenm.json$$$https://4kzn.com/$$$noproxy$$$1$$$./lib/4kzn.txt$$$4KZN"
         },
         {
             "key": "FourKFox",
