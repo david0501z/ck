@@ -37,10 +37,6 @@
       "name": "pg[本地]"
     },
     {
-      "url": "https://witty-pond-0fbb05c00.6.azurestaticapps.net/pmin/jsm.json",
-      "name": "pgmin在线az"
-    },
-    {
       "url": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/jsm.json",
       "name": "pgmin在线"
     },
