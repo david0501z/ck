@@ -45,6 +45,14 @@
       "name": "pg在线"
     },
     {
+      "url": "https://d.david525.cloudns.ch/ck/p/jsm.json",
+      "name": "pg在线d"
+    },
+    {
+      "url": "https://d.david525.cloudns.ch/ck/pmin/jsm.json",
+      "name": "pgmin在线d"
+    },
+    {
       "url": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/jsm.json",
       "name": "pgmin在线"
     },
