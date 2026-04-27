@@ -13,24 +13,24 @@
         },
         {
             "key": "PGdpdns",
-            "name": "202604250813-dpdns",
+            "name": "202604270913-dpdns",
             "type": 3,
             "jar": "http://r.d51.dpdns.org/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20260425-0813.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20260427-0913.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.d51.dpdns.org?filter=min"
         },
         {
             "key": "PG",
-            "name": "202604250813-cloudns",
+            "name": "202604270913-cloudns",
             "type": 3,
             "jar": "http://r.david525.cloudns.ch/update.jar",
             "api": "csp_Market",
             "searchable": 0,
-            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20260425-0813.zip",
+            "zip": "https://ghfast.top/https://raw.githubusercontent.com/david0501z/ck/main/pmin/pg.20260427-0913.zip",
             "changeable": 0,
             "indexs": 0,
             "ext": "http://u.david525.cloudns.ch?filter=min"
@@ -155,7 +155,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.gying.net$$$noproxy$$$1$$$./lib/guanying.txt$$$GUANYING"
+            "ext": "./lib/tokenm.json$$$https://www.xn--74qz10cqsltibh40akss.com/$$$proxy$$$1$$$./lib/guanying.txt$$$GUANYING"
         },
         {
             "key": "FourKZN",
