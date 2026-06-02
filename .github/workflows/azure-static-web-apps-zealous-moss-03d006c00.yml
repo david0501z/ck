@@ -30,7 +30,7 @@ jobs:
           find p pmin -type f -name "jsm.json" -exec sed -i 's|"http://up.david525.cloudns.ch"|"../a/up.json"|g' {} +
           find p pmin -type f -name "jsm.json" -exec sed -i 's|http://r.david525.cloudns.ch|../a|g' {} +
           find p pmin -type f -name "jsm.json" -exec sed -i 's|"http://up.david525.cloudns.ch?filter=min"|"../a/upmin.json"|g' {} +
-          find p pmin zx -type f -name "*.zip" -exec rm {} +
+          find p pmin z -type f -name "*.zip" -exec rm {} +
           
       - name: Build And Deploy
         id: builddeploy
