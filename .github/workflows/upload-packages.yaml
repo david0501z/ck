@@ -12,20 +12,29 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Zip and Upload pg.zip
+      - name: Zip packages
         run: |
           cd $GITHUB_WORKSPACE
-          zip -r pg.zip p/
-          curl -X PUT --data-binary @pg.zip "https://r.david525.cloudns.ch/pg.zip"
+          rm -rf zip/*.zip
+          zip -r zip/pg.zip p/
+          zip -r zip/zx.zip z/
+          zip -r zip/pgmin.zip pmin/
+          echo "Zip files created:"
+          ls -lh zip/*.zip
 
-      - name: Zip and Upload zx.zip
+      - name: Upload to R2 Storage
         run: |
           cd $GITHUB_WORKSPACE
-          zip -r zx.zip z/
-          curl -X PUT --data-binary @zx.zip "https://r.david525.cloudns.ch/zx.zip"
+          curl -X PUT --data-binary @zip/pg.zip "https://r.david525.cloudns.ch/pg.zip"
+          curl -X PUT --data-binary @zip/zx.zip "https://r.david525.cloudns.ch/zx.zip"
+          curl -X PUT --data-binary @zip/pgmin.zip "https://r.david525.cloudns.ch/pgmin.zip"
+          echo "Uploaded to R2"
 
-      - name: Zip and Upload pgmin.zip
+      - name: Commit to repo
         run: |
           cd $GITHUB_WORKSPACE
-          zip -r pgmin.zip pmin/
-          curl -X PUT --data-binary @pgmin.zip "https://r.david525.cloudns.ch/pgmin.zip"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add zip/*.zip
+          git diff --cached --quiet || git commit -m 'chore: update package archives [skip ci]'
+          git push origin main
