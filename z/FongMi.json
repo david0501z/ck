@@ -229,19 +229,19 @@
         "commonConfig": "./json/peizhi.json"
       }
     },
-    //    {
-    //      "key": "玩偶 | 清影",
-    //      "name": "玩偶 | 清影",
-    //      "type": 3,
-    //      "api": "csp_kongbai",
-    //      "searchable": 1,
-    //      "changeable": 0,
-    //      "ext": {
-    //        "commonConfig": "./json/peizhi.json",
-    //        "siteUrl": "https://revohd.com/",
-    //        "filter": "./json/wogg.json"
-    //      }
-    //    },
+        {
+          "key": "玩偶 | 蜗牛",
+          "name": "玩偶 | 蜗牛",
+          "type": 3,
+          "api": "csp_WoNiu",
+          "searchable": 1,
+          "changeable": 0,
+          "ext": {
+            "commonConfig": "./json/peizhi.json",
+            "siteUrl": "https://zmi.kdns.fr/",
+            "filter": "./json/wogg.json"
+          }
+        },
     {
       "key": "玩偶 | 木偶",
       "name": "玩偶 | 木偶",
