@@ -23,13 +23,14 @@ jobs:
 
       - name: Replace URLs in JSON file
         run: |
-          curl -sS -o a/up.json https://u.david525.cloudns.ch
-          curl -sS -o a/upmin.json https://u.david525.cloudns.ch?f=m
-          find a  -type f -name "*.json" -exec sed -i 's|https://d.david525.cloudns.ch/ck/|../|g' {} +
-          find p pmin -type f -name "jsm.json" -exec sed -i 's|http://d.david525.cloudns.ch/CatVodSpider/jar|../a|g' {} +
-          find p pmin -type f -name "jsm.json" -exec sed -i 's|"http://up.david525.cloudns.ch"|"../a/up.json"|g' {} +
-          find p pmin -type f -name "jsm.json" -exec sed -i 's|http://r.david525.cloudns.ch|../a|g' {} +
-          find p pmin -type f -name "jsm.json" -exec sed -i 's|"http://up.david525.cloudns.ch?filter=min"|"../a/upmin.json"|g' {} +
+          curl -sS -o a/a.json https://a.d51.dpdns.org
+          curl -sS -o a/up.json https://u.d51.dpdns.org
+          curl -sS -o a/upmin.json https://u.d51.dpdns.org?f=m
+          find a  -type f -name "*.json" -exec sed -i 's|https://d.d51.dpdns.org/ck/|../|g' {} +
+          find p pmin -type f -name "jsm.json" -exec sed -i 's|http://d.d51.dpdns.org/CatVodSpider/jar|../a|g' {} +
+          find p pmin -type f -name "jsm.json" -exec sed -i 's|"http://up.d51.dpdns.org"|"../a/up.json"|g' {} +
+          find p pmin -type f -name "jsm.json" -exec sed -i 's|http://r.d51.dpdns.org|../a|g' {} +
+          find p pmin -type f -name "jsm.json" -exec sed -i 's|"http://up.d51.dpdns.org?filter=min"|"../a/upmin.json"|g' {} +
           find p pmin z -type f -name "*.zip" -exec rm {} +
           
       - name: Build And Deploy
