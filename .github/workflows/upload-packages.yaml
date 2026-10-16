@@ -25,9 +25,9 @@ jobs:
       - name: Upload to R2 Storage
         run: |
           cd $GITHUB_WORKSPACE
-          curl -X PUT --data-binary @zip/pg.zip "https://r.david525.cloudns.ch/pg.zip"
-          curl -X PUT --data-binary @zip/zx.zip "https://r.david525.cloudns.ch/zx.zip"
-          curl -X PUT --data-binary @zip/pgmin.zip "https://r.david525.cloudns.ch/pgmin.zip"
+          curl -X PUT --data-binary @zip/pg.zip "https://r.d51.dpdns.org/pg.zip"
+          curl -X PUT --data-binary @zip/zx.zip "https://r.d51.dpdns.org/zx.zip"
+          curl -X PUT --data-binary @zip/pgmin.zip "https://r.d51.dpdns.org/pgmin.zip"
           echo "Uploaded to R2"
 
       - name: Commit to repo
