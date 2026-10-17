@@ -30,7 +30,6 @@
         "services": "./json/services.json"
       }
     },
-
     {
       "key": "玩偶gg",
       "name": "玩偶 | 饭",
@@ -40,8 +39,8 @@
       "changeable": 0,
       "ext": {
         "siteUrl": [
-          "https://wogg.xxooo.cf",
-          "https://www.wogg.net",
+          "https://woggpan.888484.xyz",
+          "https://woggpan.xxooo.cf",
           "https://wogg.333232.xyz",
           "https://wogg4k.333232.xyz"
         ],
@@ -57,8 +56,10 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://zmi.kdns.fr/",
+        "siteUrl": "https://www.wn4k.com/",
         "filter": "./json/wogg.json",
+        "username": "",
+        "password": "",
         "commonConfig": "./json/peizhi.json"
       }
     },
@@ -70,7 +71,12 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://www.muou.site/",
+        "siteUrl": [
+          "https://333.333291.xyz/",
+          "https://www.muou.asia",
+          "https://666.666291.xyz",
+          "https://123.666291.xyz"
+        ],
         "filter": "./json/wogg.json",
         "commonConfig": "./json/peizhi.json"
       }
@@ -83,38 +89,23 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "http://1.95.79.193/",
+        "siteUrl": "http://shandian.blog/",
         "filter": "./json/wogg.json",
         "commonConfig": "./json/peizhi.json"
       }
     },
     {
-      "key": "玩偶 | 二小",
-      "name": "玩偶 | 二小",
+      "key": "玩偶 | 花卷",
+      "name": "玩偶 | 花卷",
       "type": 3,
-      "api": "csp_kongbai",
+      "api": "csp_HuaJuan",
       "searchable": 1,
       "changeable": 0,
       "ext": {
+        "commonConfig": "./json/peizhi.json",
         "siteUrl": [
-          "https://www.2xiaopan.top/",
-          "https://www.wexwp.cc"
-        ],
-        "filter": "./json/wogg.json",
-        "commonConfig": "./json/peizhi.json"
-      }
-    },
-    {
-      "key": "玩偶 | 小米",
-      "name": "玩偶 | 小米",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "siteUrl": "https://www.milvdou.fun/",
-        "filter": "./json/wogg.json",
-        "commonConfig": "./json/peizhi.json"
+          "https://www.hjzhencai.top/"
+        ]
       }
     },
     {
@@ -125,7 +116,10 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "http://tv.yydsys.top/",
+        "siteUrl": [
+          "https://yydsys.de5.net",
+          "https://tv.214521.xyz"
+        ],
         "filter": "./json/wogg.json",
         "commonConfig": "./json/peizhi.json"
       }
@@ -367,7 +361,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://www.qwnull.com",
+        "siteUrl": "https://www.qwfun.com",
         "commonConfig": "./json/peizhi.json"
       }
     },

@@ -10,6 +10,14 @@
 网盘集合.json 支持根据share_index名进行聚合（不同网盘也可以随意聚合）以减少分类数目  分类更加清晰  可以参考网盘集合.json写法
 
 近期更新
+1.兼容tvmovies壳子
+2.优化go代理在低版本的启动
+3.修复配置中心-应用中心依赖下载问题，也支持直接配置 tv/lib 下的二进制文件运行，可以参考torrserver的配置
+4.新增torrserver磁力应用，使用内存，不伤硬盘 https://github.com/YouROK/TorrServer/releases/tag/MatriX.146 下载对应文件到tv/lib 下改名称为torrserver。
+
+
+1.更新youtube、片库、bili
+
 排序与解析（近期重点）
 - 优化剧集排序（24259d51）：修复 01光的继承者.flv 这类集号紧贴中文的剧集排序错乱问题，7 个网盘 Sorter 的 fallback 改为按原始文件名排序
 - 剧集排序优化（180e6ff7）：集号识别逻辑大改，支持 S01E02/EP02/第02集/02集 等格式
