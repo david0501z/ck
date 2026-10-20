@@ -1,1 +1,1 @@
-{ "spider": "https://r.d50.dpdns.org/custom_spider1.jar", "sites": [ { "key": "版本信息", "name": "版本｜信息", "type": 3, "api": "csp_Market", "searchable": 0, "changeable": 0, "indexs": 0, "ext": "http://up.d50.dpdns.org" } ] }
+{ "spider": "https://d.d50.dpdns.org/ck/a/update.jar", "sites": [ { "key": "版本信息", "name": "版本｜信息", "type": 3, "api": "csp_Market", "searchable": 0, "changeable": 0, "indexs": 0, "ext": "http://up.d50.dpdns.org" } ] }
