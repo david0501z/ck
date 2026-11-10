@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+  "spider": "./custom_spider.jar;md5;33f9dcee01312eae357360bea407824d",
   "wallpaper": "https://bing.img.run/rand.php",
   "lives": [],
   "sites": [
@@ -560,6 +560,20 @@
         "json": "./json/bilibili.json",
         "cookie": "",
         "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "csp_BiliFilm",
+      "name": "视频 | 哔哩影视",
+      "type": 3,
+      "api": "csp_BiliFilm",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "json": "./json/bilibili.json",
+        "cookie": ""
       }
     },
     {
