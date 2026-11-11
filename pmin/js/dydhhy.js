@@ -1,1 +1,1 @@
-../p/js/dydhhy.js
+../../p/js/dydhhy.js

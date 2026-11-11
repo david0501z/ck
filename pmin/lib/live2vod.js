@@ -1,1 +1,1 @@
-../p/lib/live2vod.js
+../../p/lib/live2vod.js

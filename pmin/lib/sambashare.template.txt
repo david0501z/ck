@@ -1,1 +1,1 @@
-../p/lib/sambashare.template.txt
+../../p/lib/sambashare.template.txt

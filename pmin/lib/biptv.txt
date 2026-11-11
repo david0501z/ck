@@ -1,1 +1,1 @@
-../p/lib/biptv.txt
+../../p/lib/biptv.txt

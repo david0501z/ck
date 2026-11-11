@@ -1,1 +1,1 @@
-../p/js/xzys.js
+../../p/js/xzys.js

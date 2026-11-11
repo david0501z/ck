@@ -1,1 +1,1 @@
-../p/lib/json5.js
+../../p/lib/json5.js

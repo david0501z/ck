@@ -1,1 +1,1 @@
-../p/lib/gbk.js
+../../p/lib/gbk.js

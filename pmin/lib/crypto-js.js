@@ -1,1 +1,1 @@
-../p/lib/crypto-js.js
+../../p/lib/crypto-js.js

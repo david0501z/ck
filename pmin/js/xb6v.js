@@ -1,1 +1,1 @@
-../p/js/xb6v.js
+../../p/js/xb6v.js

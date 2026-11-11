@@ -1,1 +1,1 @@
-../p/lib/alishare.ebook.txt
+../../p/lib/alishare.ebook.txt

@@ -1,1 +1,1 @@
-../p/js/dygang.js
+../../p/js/dygang.js

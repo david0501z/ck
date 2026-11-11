@@ -1,1 +1,1 @@
-../p/lib/pushshare.txt
+../../p/lib/pushshare.txt

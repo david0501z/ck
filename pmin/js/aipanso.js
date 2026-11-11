@@ -1,1 +1,1 @@
-../p/js/aipanso.js
+../../p/js/aipanso.js

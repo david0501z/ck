@@ -1,1 +1,1 @@
-../p/js/template.js
+../../p/js/template.js

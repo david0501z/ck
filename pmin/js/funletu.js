@@ -1,1 +1,1 @@
-../p/js/funletu.js
+../../p/js/funletu.js

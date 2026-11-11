@@ -1,1 +1,1 @@
-../p/lib/189share.txt
+../../p/lib/189share.txt

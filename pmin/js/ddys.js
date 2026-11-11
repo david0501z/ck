@@ -1,1 +1,1 @@
-../p/js/ddys.js
+../../p/js/ddys.js

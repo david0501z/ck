@@ -1,1 +1,1 @@
-../p/js/kuba.js
+../../p/js/kuba.js

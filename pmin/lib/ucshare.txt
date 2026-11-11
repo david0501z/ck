@@ -1,1 +1,1 @@
-../p/lib/ucshare.txt
+../../p/lib/ucshare.txt

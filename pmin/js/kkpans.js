@@ -1,1 +1,1 @@
-../p/js/kkpans.js
+../../p/js/kkpans.js

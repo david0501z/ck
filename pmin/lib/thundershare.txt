@@ -1,1 +1,1 @@
-../p/lib/thundershare.txt
+../../p/lib/thundershare.txt

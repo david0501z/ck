@@ -1,1 +1,1 @@
-../p/js/rrdyw.js
+../../p/js/rrdyw.js

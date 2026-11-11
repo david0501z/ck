@@ -1,1 +1,1 @@
-../p/js/huya.js
+../../p/js/huya.js

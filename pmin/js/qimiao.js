@@ -1,1 +1,1 @@
-../p/js/qimiao.js
+../../p/js/qimiao.js

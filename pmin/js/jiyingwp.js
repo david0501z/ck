@@ -1,1 +1,1 @@
-../p/js/jiyingwp.js
+../../p/js/jiyingwp.js

@@ -1,1 +1,1 @@
-../p/js/88ball.js
+../../p/js/88ball.js

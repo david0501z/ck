@@ -1,1 +1,1 @@
-../p/js/97tvs.js
+../../p/js/97tvs.js

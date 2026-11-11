@@ -1,1 +1,1 @@
-../p/lib/getsearchtxt.py
+../../p/lib/getsearchtxt.py

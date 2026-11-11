@@ -1,1 +1,1 @@
-../p/js/meijumip.js
+../../p/js/meijumip.js

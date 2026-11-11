@@ -1,1 +1,1 @@
-../p/js/yyets.js
+../../p/js/yyets.js

@@ -1,1 +1,1 @@
-../p/js/cilixiong.js
+../../p/js/cilixiong.js
