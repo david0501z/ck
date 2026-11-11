@@ -1,11 +1,1 @@
-{
-  "drives": [
-    {
-      "name": "alist.jar",
-      "search": true,
-      "searchable": true,
-      "server": "http://192.168.1.1:5678/"
-    }
-  ],
-  "danmu":true
-}
+../p/lib/alistjar.example.json
