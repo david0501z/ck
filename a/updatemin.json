@@ -1,5 +1,5 @@
 {
-    "spider": "https://d.d50.dpdns.org/ck/a/update.jar",
+    "spider": "https://config.d51.qzz.io/d/ck/a/update.jar",
     "sites": [
         {
             "key": "版本信息",
@@ -9,7 +9,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "http://u.d50.dpdns.org?filter=min"
+            "ext": "https://config.d51.qzz.io/u/?filter=min"
         }
     ]
 }
