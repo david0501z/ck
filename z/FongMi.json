@@ -398,11 +398,12 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://pansou-latest-hv4k.onrender.com",
+        "siteUrl": "https://so.252035.xyz",
         "filter": {
           "include": ["HDR", "高码"],
           "exclude": ["预告", "花絮"]
         },
+         "checkEnabled": false,
         "commonConfig": "./json/peizhi.json"
       }
     },
