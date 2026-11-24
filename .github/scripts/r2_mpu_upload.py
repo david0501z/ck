@@ -28,7 +28,14 @@ def main():
         sys.exit(1)
 
     fsize = os.path.getsize(local)
+    # R2 multipart: 除最后一片外每片必须 >= 5MB (5242880)
+    MIN_PART = 5242880
+    nparts = max(1, min(nparts, max(1, fsize // MIN_PART)))
     part_size = math.ceil(fsize / nparts)
+    if part_size < MIN_PART and fsize > MIN_PART:
+        # 保证每片(除最后) >= 5MB: 重新计算
+        nparts = fsize // MIN_PART
+        part_size = MIN_PART
     # 保证前 nparts-1 片等长、最后一片 <= part_size
     # R2 要求：除最后一片外所有片完全等长
     BASE = f"{HOST}/mpu/{key}"
