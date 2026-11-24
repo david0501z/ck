@@ -6,6 +6,8 @@ on:
 jobs:
   upload:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,19 +24,20 @@ jobs:
           echo "Zip files created:"
           ls -lh zip/*.zip
 
-      - name: Upload to R2 Storage
+      - name: Upload to GitHub Release
         run: |
           cd $GITHUB_WORKSPACE
-          curl -X PUT --data-binary @zip/pg.zip "https://r.d51.dpdns.org/pg.zip"
-          curl -X PUT --data-binary @zip/zx.zip "https://r.d51.dpdns.org/zx.zip"
-          curl -X PUT --data-binary @zip/pgmin.zip "https://r.d51.dpdns.org/pgmin.zip"
-          echo "Uploaded to R2"
+          TAG="v$(date +%Y%m%d-%H%M)"
+          gh release create "$TAG" --title "packages $TAG" --notes "pg/zx/pgmin packages" --target main
+          gh release upload "$TAG" zip/pg.zip zip/zx.zip zip/pgmin.zip --clobber
+          echo "Uploaded to Release $TAG"
 
-      - name: Commit to repo
+      - name: Upload to R2 (multipart)
         run: |
           cd $GITHUB_WORKSPACE
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add zip/*.zip
-          git diff --cached --quiet || git commit -m 'chore: update package archives [skip ci]'
-          git push origin main
+          export R2_UPLOAD_PASSWORD="${{ secrets.R2_UPLOAD_PASSWORD }}"
+          export R2_HOST="https://rhb.d51.dpdns.org"
+          python3 .github/scripts/r2_mpu_upload.py zip/pg.zip pg.zip 12
+          python3 .github/scripts/r2_mpu_upload.py zip/zx.zip zx.zip 12
+          python3 .github/scripts/r2_mpu_upload.py zip/pgmin.zip pgmin.zip 12
+          echo "Uploaded to R2"
