@@ -25,6 +25,8 @@ jobs:
           ls -lh zip/*.zip
 
       - name: Upload to GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           cd $GITHUB_WORKSPACE
           TAG="v$(date +%Y%m%d-%H%M)"
